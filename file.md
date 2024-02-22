@@ -34,4 +34,4 @@ git merge branchname that we want to merge on to main
 
 # caching credentials
 git config --global credential.helper store
-validating credential helper with better changes
+validating credential helper with better changes on main
